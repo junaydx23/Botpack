@@ -63,7 +63,7 @@ module.exports = async ({ api }) => {
       }
     });
   }, {
-    scheduled: true,
+    scheduled: false,
     timezone: "Asia/Manila"
   });
 };

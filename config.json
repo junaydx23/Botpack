@@ -12,25 +12,25 @@
   "EMAIL": "",
   "PASSWORD": "",
   "OTPKEY": "",
-  "BOTNAME": "",
-  "PREFIX": "",
+  "BOTNAME": "YutaBot",
+  "PREFIX": "x",
   "ADMINBOT": [
-    "",
+    "100006195543459",
     "",
     "",
     ""
   ],
   "DESIGN": {
-    "Title": "botpack",
+    "Title": "junied",
     "Theme": "blue",
-    "Admin": "Bundas Andrian",
+    "Admin": "Junied Ampaso",
     "Setup": {
       "Title": "Design your own custom terminal Titlebar for the title and must contain no numbers",
       "Theme": "Customize your console effortlessly with various theme colors. Explore Aqua, Fiery, Blue, Pink, Red, Retro, Sunlight, Teen, Summer, Flower, Ghost, and Hacker themes to enhance your terminal logs."
     }
   },
-  "BOTOWNER": "Bundas Andrian",
-  "FACEBOOK": "https://facebook.com/100037363620456",
+  "BOTOWNER": "Junied Ampaso",
+  "FACEBOOK": "https://facebook.com/ampasoo",
   "OPENAI": "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",
   "APPROVED": [
     ""

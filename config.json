@@ -1,7 +1,7 @@
 {
   "language": "en",
   "DeveloperMode": false,
-  "autoCreateDB": true,
+  "autoCreateDB": false,
   "allowInbox": true,
   "autoClean": true,
   "adminOnly": false,
@@ -12,8 +12,8 @@
   "EMAIL": "",
   "PASSWORD": "",
   "OTPKEY": "",
-  "BOTNAME": "YutaBot",
-  "PREFIX": "x",
+  "BOTNAME": "XyreneBot",
+  "PREFIX": ".",
   "ADMINBOT": [
     "100006195543459",
     "",
@@ -41,7 +41,7 @@
   "DEL_FUNCTION": true,
   "ADD_FUNCTION": true,
   "FCAOption": {
-    "forceLogin": true,
+    "forceLogin": false,
     "listenEvents": true,
     "autoMarkDelivery": false,
     "autoMarkRead": false,
